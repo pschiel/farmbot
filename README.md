@@ -1,2 +1,1 @@
-# farmbot
-Experimental automated browsergame bot
+This was an experiment with WWW-Mechanize which resulted in a pretty competitive browsergame bot. Logic had to be adjusted now and then in the script. It stopped to work when they finally started to use tokens.
